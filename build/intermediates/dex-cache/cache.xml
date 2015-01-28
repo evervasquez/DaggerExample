@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/eveR/Android/Dagger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/classes-bacf07997c7d69c4584d9b640043ef4ee564d388.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/Android/Dagger/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/classes-860b2beefcfc0936da2801fc74219dcb2c2a8dea.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/Android/Dagger/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7788434c8b0dc7d3461f4dbce443b087d278568e.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.2.2/fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57/dagger-compiler-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/dagger-compiler-1.2.2-5a6e045064c6248336e15974bda8996d034e699f.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ec143307b3d12add48f5a3ed09f2955f333d07f4.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/guava-15.0-0a646b486fe9bac01e8936979107c0b86d3ebf5f.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/javax.inject-1-2bd88ca121dbf9a72e5d3be31ae6067f0bb8bcb0.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-7af2747f1cc3cc8ef7ba9a5ce53bb76711463607.jar" />
+    </item>
+    <item
+        jar="/Users/eveR/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
+        <dex dex="/Users/eveR/Android/Dagger/app/build/intermediates/pre-dexed/debug/javawriter-2.5.0-d72dcd9d2f880f7324f46da4c2cb272d008ea81d.jar" />
+    </item>
+
+</items>
